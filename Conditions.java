@@ -1,8 +1,5 @@
 public class Conditions{
     public static void main(String[] args) {
-        public class A1_Library_late_fees {
-
-	public static void main(String[] args) {
 		
 		System.out.println("Calculating the late fees of returning books --");
 		
@@ -31,11 +28,6 @@ public class Conditions{
 	    }else {
 	    	System.out.println("Wrong Book Type");
 	    }
-	    
-
-	}
-
-}
-
     }
 }
+
