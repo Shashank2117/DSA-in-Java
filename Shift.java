@@ -2,8 +2,8 @@ public class Shift {
     
     public static void main(String[] args) {
         
-        // i/p => [1,2,3,4]
-        // o/p => [2,3,4,1]
+        // i/p => [1,2,3,4];
+        // o/p => [2,3,4,1];
 
         System.out.println("[1,2,3,4,5]");
         int []arr = {1,2,3,4,5};
